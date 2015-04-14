@@ -1,0 +1,71 @@
+Script started on Mon 13 Apr 2015 08:09:06 PM PDT
+]0;jmercado@localhost:~/custom-build-api-seed]7;file://localhost.localdomain/home/jmercado/custom-build-api-seed[jmercado@localhost custom-build-api-seed]$ testing
+bash: testing: command not found...
+]0;jmercado@localhost:~/custom-build-api-seed]7;file://localhost.localdomain/home/jmercado/custom-build-api-seed[jmercado@localhost custom-build-api-seed]$ #testing
+]0;jmercado@localhost:~/custom-build-api-seed]7;file://localhost.localdomain/home/jmercado/custom-build-api-seed[jmercado@localhost custom-build-api-seed]$ git push [K
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Everything up-to-date
+]0;jmercado@localhost:~/custom-build-api-seed]7;file://localhost.localdomain/home/jmercado/custom-build-api-seed[jmercado@localhost custom-build-api-seed]$ ls
+LICENSE  README.md  requirements.txt  [0m[01;34mstudents[0m  typescript  whatifproject2.csv
+]0;jmercado@localhost:~/custom-build-api-seed]7;file://localhost.localdomain/home/jmercado/custom-build-api-seed[jmercado@localhost custom-build-api-seed]$ lsgit push
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Everything up-to-date
+]0;jmercado@localhost:~/custom-build-api-seed]7;file://localhost.localdomain/home/jmercado/custom-build-api-seed[jmercado@localhost custom-build-api-seed]$ git checkout -b custom-build-api-see d
+Switched to a new branch 'custom-build-api-seed'
+]0;jmercado@localhost:~/custom-build-api-seed]7;file://localhost.localdomain/home/jmercado/custom-build-api-seed[jmercado@localhost custom-build-api-seed]$ ls
+LICENSE  README.md  requirements.txt  [0m[01;34mstudents[0m  typescript  whatifproject2.csv
+]0;jmercado@localhost:~/custom-build-api-seed]7;file://localhost.localdomain/home/jmercado/custom-build-api-seed[jmercado@localhost custom-build-api-seed]$ commit
+bash: commit: command not found...
+]0;jmercado@localhost:~/custom-build-api-seed]7;file://localhost.localdomain/home/jmercado/custom-build-api-seed[jmercado@localhost custom-build-api-seed]$ git commit
+On branch custom-build-api-seed
+Untracked files:
+	[31mtypescript[m
+	[31mwhatifproject2.csv[m
+
+nothing added to commit but untracked files present
+]0;jmercado@localhost:~/custom-build-api-seed]7;file://localhost.localdomain/home/jmercado/custom-build-api-seed[jmercado@localhost custom-build-api-seed]$ git add whatifproe[Kject2.cv[Ksv
+]0;jmercado@localhost:~/custom-build-api-seed]7;file://localhost.localdomain/home/jmercado/custom-build-api-seed[jmercado@localhost custom-build-api-seed]$ #min[Kght need to remember how to do pa rts 2 and 3, and maybe 4 from part 2.
+]0;jmercado@localhost:~/custom-build-api-seed]7;file://localhost.localdomain/home/jmercado/custom-build-api-seed[jmercado@localhost custom-build-api-seed]$ exit
+exit
+
+Script done on Mon 13 Apr 2015 08:17:45 PM PDT
